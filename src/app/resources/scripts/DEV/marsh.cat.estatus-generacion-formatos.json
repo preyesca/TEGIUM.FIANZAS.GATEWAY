@@ -1,0 +1,10 @@
+[{
+  "clave": 1,
+  "descripcion": "Formatos enviados",
+  "activo": true
+},
+{
+  "clave": 2,
+  "descripcion": "Informacion complementaria",
+  "activo": true
+}]

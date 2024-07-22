@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64c56b7736860efb262f9b22"
+  },
+  "clave": 1,
+  "descripcion": "Activo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56b7736860efb262f9b23"
+  },
+  "clave": 2,
+  "descripcion": "Inactivo",
+  "activo": true
+}]

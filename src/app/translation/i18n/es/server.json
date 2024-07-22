@@ -1,0 +1,17 @@
+{
+  "STATUS_CODE": {
+    "400": "El servidor no puede procesar la solicitud. (HTTP ERROR 400 - Bad Request)",
+    "401": "La solicitud carece de credenciales válidas de autenticación. (HTTP ERROR 401 - Unauthorized)",
+    "404": "No se puede encontrar el recurso solicitado. (HTTP ERROR 404 - Not Found)",
+    "408": "Tiempo de espera agotado. (HTTP ERROR 408 - Request Timeout)",
+    "500": "Se produjo un error en el servidor al intentar procesar la solicitud. (HTTP ERROR 500 - Internal Server Error)",
+    "502": "El servidor encontró un error temporal y no pudo completar la solicitud. (HTTP ERROR 502 - Bad Request)"
+  },
+  "JWTOKEN": {
+    "ERROR": {
+      "USUARIO": "La solicitud no tiene una credencial válida de autenticación (Usuario)",
+      "PROYECTO": "La solicitud no tiene una credencial válida de autenticación (Proyecto)",
+      "ROL": "La solicitud no tiene una credencial válida de autenticación (Rol)"
+    }
+  }
+}

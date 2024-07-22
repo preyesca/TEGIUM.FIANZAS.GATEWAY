@@ -1,0 +1,249 @@
+{
+  "MAIL": {
+    "VALIDACIONES": {
+      "NO_DESTINATARIOS": "No se asignó destinatarios de destino para el correo electrónico",
+      "NO_EMAIL_CC": "El 'cc' no tiene un formato de correo electrónico válido."
+    },
+    "SUCCESS": "¡Mensaje enviado con éxito!",
+    "ERROR": "Se produjo un error al intentar enviar el correo, favor de contactar con un administrador"
+  },
+  "CORE": {
+    "FORMATO_ENTREGADO": {
+      "ASUNTO": "Formato entregado",
+      "BODY": {
+        "APRECIABLE": "Apreciable <strong>{analistaIngreso}</strong>,",
+        "MESSAGE_ONE": "Le confirmamos que la aseguradora {aseguradora} ha confirmado que el trámite {folioTramite} ha sido gestionado exitosamente."
+      }
+    },
+    "FIRMA_EJECUTIVO": {
+      "ASUNTO": "Estatus solicitud",
+      "BODY": {
+        "ESTIMADO": "Apreciable <strong>{nombreUsuario}</strong>,",
+        "MESSAGE_ONE": "Le confirmamos que se han generado los documentos del cliente {numeroCliente} - {nombreCliente}."
+      }
+    },
+    "FIRMA_EJECUTIVO_REVISION_DOCUMENTAL": {
+      "ASUNTO": "Revisión documental  ",
+      "BODY": {
+        "APRECIABLE": "Apreciable <strong>{nombreAsegurado}</strong>",
+        "CORREO": "Correo electrónico:<strong> {correos}</strong>",
+        "DOCUMENTOS": "{documentos}",
+        "ENLACE": "{enlace}",
+        "MESSAGE_FIVE": "Para continuar con su proceso agradecemos nos haga llegar la documentación cubriendo las observaciones realizadas.",
+        "MESSAGE_FOUR": "Una vez dentro se le solicitará la siguiente información:",
+        "MESSAGE_ONE": "Derivado de la revisión de la documentación proporcionada, a continuación se enlistan las observaciones encontradas:",
+        "MESSAGE_THREE": "Para mayor agilidad, cumplimiento y comodidad, estos documentos deberán ser ingresados en el siguiente enlace:",
+        "MESSAGE_TWO": "{observaciones}",
+        "NRO_CLIENTE": "Número de cliente:<strong> {numeroCliente}</strong>"
+      }
+    },
+    "FOLIO": {
+      "ASUNTO": "Estatus carga masiva",
+      "BODY": {
+        "ESTIMADO": "Estimado <strong>{nombreUsuario}</strong>,",
+        "MESSAGE_ONE": "Su archivo <strong>{filename}</strong> fue procesado, puede ver los detalles en <strong>/fianzas/folio/estatus-carga</strong>"
+      }
+    },
+    "SOLICITUD_FIRMA_ASEGURADO": {
+      "ASUNTO": "Solicitud de firma",
+      "BODY": {
+        "APRECIABLE": "Apreciable {nombreAsegurado}",
+        "MESSAGE_ONE": "Derivado de la revisión documental, a continuación se enlistan las observaciones encontradas:",
+        "OBSERVACIONES": "{observaciones}",
+        "MESSAGE_TWO": "Estos documentos deberán ser firmados e ingresados en el siguiente enlace:",
+        "MESSAGE_THREE": "Una vez dentro se le solicitará la siguiente información:",
+        "NRO_CLIENTE": "<strong>Número de cliente: </strong>{numeroCliente}",
+        "CORREO": "<strong>Correo electrónico: {correos} </strong>"
+      }
+    },
+    "FORMATOS_FIRMADOS": {
+      "ASUNTO": "Formatos firmados",
+      "BODY": {
+        "APRECIABLE": "Apreciable {aseguradora}",
+        "MESSAGE_ONE": "Le confirmamos que se han generado los documentos del cliente {numeroCliente} - {nombreAsegurado} referente al Art.492 para su revisión.",
+        "MESSAGE_TWO": "Es necesario contar con su confirmación de plena identificación del cliente para poder dar cierre al trámite de manera satisfactoria."
+      }
+    },
+    "MENSAJE_GENERICO": {
+      "MESSAGE_ONE": "Si existiera algún inconveniente nos estaremos comunicando con usted en un plazo máximo de 24 horas.",
+      "MESSAGE_TWO": "Este correo electrónico es para uso exclusivo de la persona o la entidad a la que expresamente se le ha enviado y puede contener información confidencial o reservada. Si va a imprimir este correo, recicle el papel, es un recurso renovable y reciclable.",
+      "MESSAGE_THREE": "Por favor, no responda a este correo electrónico",
+      "MESSAGE_FOUR": "Copyright &copy; 2023 Teggium. Todos los derechos reservados"
+    },
+    "SOLICITUD": {
+      "ASUNTO": "Solicitud ",
+      "BODY": {
+        "APRECIABLE": "Apreciable <strong>{nombreAsegurado}</strong>",
+        "CORREO": "<strong>Correo electrónico: </strong>",
+        "DOCUMENTOS": "{documentos}",
+        "MESSAGE_FIVE": "Para continuar con su trámite de identificación ante la aseguradora {nombreComercial} es necesario que nos proporcione la siguiente documentación:",
+        "MESSAGE_FOUR": "Nuestro portal para acceso de información sobre identificación de clientes, cuenta con todas las medidas de seguridad establecidas en {proyectoClienteComercial} y se adhieren a nuestra política interna de confidencialidad de la información.",
+        "MESSAGE_ONE": "Agradecemos la confianza de {nombreClienteComercial} para la administración de sus contratos de {proyectoCliente}.",
+        "MESSAGE_SIX": "Si existiera algún inconveniente nos estaremos comunicando con usted en un plazo máximo de 24 horas.",
+        "MESSAGE_THREE": "Una vez dentro se le solicitará la siguiente información:",
+        "MESSAGE_TWO": "Para mayor agilidad, cumplimiento y comodidad, estos documentos deberán ser ingresados en el siguiente enlace:",
+        "NRO_CLIENTE": "<strong>Número de cliente: </strong>{numeroCliente}"
+      }
+    },
+    "DATOS_CONTACTO": {
+      "ASUNTO": "Datos de contacto",
+      "BODY": {
+        "APRECIABLE": "Apreciable {usuario}",
+        "MESSAGE_ONE": "Solicitamos su apoyo para actualizar los datos de contacto del asegurado {nombreAsegurado} dentro de la plataforma de gestión, ya que hasta el momento no hemos podido contactarlo al número registrado en el sistema {telefonoAsegurado}. Es importante su apoyo para poder continuar con el seguimiento del trámite."
+      }
+    },
+    "NO_CONTINUA_PROCESO": {
+      "ASUNTO": "No continua con el proceso",
+      "BODY": {
+        "APRECIABLE": "Apreciable {usuario}",
+        "MESSAGE_ONE": "El asegurado {nombreAsegurado} con el número de trámite {folioTramite} refiere que no desea continuar con el proceso."
+      }
+    },
+    "FIRMA_DE_DOCUMENTOS": {
+      "ASUNTO": "Firma de documentos",
+      "BODY": {
+        "APRECIABLE": "Apreciable <strong>{nombreAsegurado}</strong>",
+        "MESSAGE_ONE": "Le confirmamos que se han generado los documentos necesarios para continuar con su trámite",
+        "MESSAGE_TWO": "Estos documentos deberán ser firmados e ingresados en la siguiente liga:",
+        "MESSAGE_THREE": "Una vez dentro de la liga se le solicitará la siguiente información:",
+        "MESSAGE_FOUR": "Si existiera algún inconveniente nos estaremos comunicando con usted en un plazo máximo de 24 horas.",
+        "NRO_CLIENTE": "<strong>Número de cliente:</strong> {numeroCliente}",
+        "CORREO": "<strong>Correo electrónico: {correos} </strong>"
+      }
+    },
+    "REVISION_DOCUMENTAL": {
+      "ASUNTO": "Revisión documental ",
+      "BODY": {
+        "APRECIABLE": "Apreciable <strong>{nombreAsegurado}</strong>",
+        "CORREO": "<strong>Correo electrónico: </strong>",
+        "DOCUMENTOS": "{documentos}",
+        "MESSAGE_FIVE": "Para continuar con su trámite de identificación ante la aseguradora {nombreComercial} es necesario que nos proporcione la siguiente documentación:",
+        "MESSAGE_FOUR": "Nuestro portal para acceso de información sobre identificación de clientes, cuenta con todas las medidas de seguridad establecidas en {aseguradora} y se adhieren a nuestra política interna de confidencialidad de la información.",
+        "MESSAGE_ONE": "Agradecemos la confianza de {nombreClienteComercial} para la administración de sus contratos de {numeroCliente}.",
+        "MESSAGE_SIX": "Si existiera algún incoveniente nos estaremos comunicando con usted en un plazo máximo de 24 horas.",
+        "MESSAGE_THREE": "Una vez dentro se le solicitará la siguiente información:",
+        "MESSAGE_TWO": "Para mayor agilidad, cumplimiento y comodidad, estos documentos deberán ser ingresados en el siguiente enlace:",
+        "MESSAGE_SEVEN": "Derivado de la revisión de la documentación proporcionada, a continuación se enlistan las observaciones encontradas:",
+        "MESSAGE_EIGHT": "Para continuar con su proceso agradecemos nos haga llegar la documentación cubriendo las observaciones realizadas.",
+        "NRO_CLIENTE": "<strong>Número de cliente: </strong>{numeroCliente}"
+      }
+    },
+    "FISICOS_ENVIADOS": {
+      "ASUNTO": "Físicos enviados",
+      "BODY": {
+        "APRECIABLE": "Apreciable usuario,",
+        "MESSAGE_ONE": "Le informamos que se han enviado la documentación física del cliente {nombreAsegurado} de acuerdo con lo siguiente:",
+        "MESSAGE_TWO": "Clave guía:"
+      }
+    },
+    "REVISION_DOCUMENTACION_FISICA": {
+      "ASUNTO": "Revisión documentación física",
+      "BODY": {
+        "APRECIABLE": "Apreciable {nombreAsegurado},",
+        "MESSAGE_ONE": "Derivado de la revisión de la documentación enviada, a continuación se enlistan las observaciones encontradas:",
+        "MESSAGE_TWO": "Para continuar con su proceso agradecemos nos haga llegar la documentación cubriendo las observaciones realizadas."
+      }
+    },
+    "RECOLECCION_FISICOS": {
+      "ASUNTO": "Recolección de físicos",
+      "BODY": {
+        "TITULO": "Recolección de físicos",
+        "APRECIABLE": "Apreciable {nombreAsegurado}",
+        "NRO_CLIENTE": "<strong>Número de cliente: <br/> </strong>{numeroCliente}",
+        "CORREO": "<strong>Correo electrónico: </strong>",
+        "MESSAGE_ONE": "Para continuar con su trámite con la aseguradora {aseguradora} es necesario que nos proporcione la siguiente documentación:",
+        "MESSAGE_TWO": "Clave Guía",
+        "MESSAGE_THREE": "Estos documentos deberán de ser ingresados en la siguiente liga:",
+        "MESSAGE_FOUR": "En breve nos estaremos comunicando con usted para dar continuidad a su trámite y aclarar cualquier duda que pudiera tener."
+      }
+    },
+    "SOLICITUD_FIRMA_EJECUTIVO": {
+      "ASUNTO": "Solicitud de firma ejecutivo",
+      "BODY": {
+        "TITULO": "Solicitud firma ejecutivo",
+        "APRECIABLE": "Apreciable usuario",
+        "MESSAGE_ONE": "Le confirmamos que se han generado los documentos del cliente {numeroCliente} - {nombreAsegurado}.",
+        "MESSAGE_TWO": "Es necesario contar con su firma para poder continuar con el trámite."
+      }
+    },
+    "REVISION_DE_FORMATOS": {
+      "ASUNTO": "Revisión de formatos",
+      "BODY": {
+        "TITULO": "Revisión de formatos",
+        "APRECIABLE": "Apreciable {aseguradora}",
+        "MESSAGE_ONE": "Derivado de la revisión de la documentación enviada, a continuación se enlistan las observaciones encontradas:",
+        "MESSAGE_TWO": "Para continuar con el proceso agradecemos nos haga llegar la documentación cubriendo las observaciones realizadas."
+      }
+    },
+    "GENERACION_DE_FORMATOS": {
+      "ASUNTO": "Generación de formatos",
+      "BODY": {
+        "TITULO": "Generación de formatos",
+        "APRECIABLE": "Apreciable {aseguradora}",
+        "MESSAGE_ONE": "La documentación enviada se encuentra validada de forma exitosa, le agradecemos que nos haga llegar los formatos para firma del cliente.",
+        "MESSAGE_TWO": "Si existiera algún inconveniente nos estaremos comunicando con usted en un plazo máximo de 24 horas."
+      }
+    },
+    "GENERACION_DE_FORMATOSV2": {
+      "ASUNTO": "Generación de formatos",
+      "BODY": {
+        "TITULO": "Generación de formatos",
+        "APRECIABLE": "Apreciable {aseguradora}",
+        "MESSAGE_ONE": "Le confirmamos que que se ha completado y validado el expediente del cliente {numeroCliente} - {nombreAsegurado}. para su identificación conforme lo señalado en el Art. 492 de LFSF.",
+        "MESSAGE_TWO": "Se lo hacemos llegar para la generación del Formato de Identificación correspondiente.",
+        "MESSAGE_THREE": "Es necesario contar con su confirmación de plena identificación del cliente para proceder con el envío físico de dicho expediente y cierre del mismo.",
+        "MESSAGE_FOUR": "Si existe algún incovenniente, agradecemos su pronta respuesta para aclaración."
+      }
+    },
+    "RECEPCION_DOCUMENTOS": {
+      "ASUNTO": "Recepción de documentos",
+      "BODY": {
+        "ESTIMADO": "Apreciable <strong>{nombreContacto}</strong>,",
+        "MESSAGE_ONE": "Le confirmamos que recibimos su documentación de manera exitosa, procederemos a la revisión.<br>Si existiera algún inconveniente nos estaremos comunicando con usted en un plazo máximo de 24 horas.<br>Gracias."
+      }
+    }
+  },
+  "PORTAL": {
+    "RECEPCION_DOCUMENTOS": {
+      "ASUNTO": "Recepción de documentos",
+      "BODY": {
+        "ESTIMADO": "Apreciable <strong>{nombreContacto}</strong>,",
+        "MESSAGE_ONE": "Le confirmamos que recibimos su documentación de manera exitosa, procederemos a la revisión.<br>Si existiera algún inconveniente nos estaremos comunicando con usted en un plazo máximo de 24 horas.<br>Gracias."
+      }
+    }
+  },
+  "ACTIVACION_CUENTA": {
+    "ASUNTO": "¡Bienvenido! Es necesario activar su cuenta",
+    "BODY": {
+      "ACTION": "¡Activar mi cuenta ahora!",
+      "ACTION_LINK": "{urlActivacion}",
+      "ESTIMADO": "Estimado <strong>{nombreUsuario}</strong>,",
+      "MESSAGE_ONE": "Gracias por registrarte, para continuar con el proceso es necesario activar tu cuenta."
+    }
+  },
+  "RECOVER_PASSWORD": {
+    "ASUNTO": "Recuperación de contraseña",
+    "BODY": {
+      "ESTIMADO": "Estimado <strong>{nombreUsuario}</strong>,",
+      "MESSAGE_ONE": "Hemos generado una nueva contraseña para su cuenta. Por favor, inicie sesión utilizando la siguiente contraseña: <strong>{password}</strong>"
+    }
+  },
+  "CODIGO_AUTENTIFICACION": {
+    "ASUNTO": "Código de autenticación",
+    "BODY": {
+      "ACTION": "Verificar mi cuenta",
+      "ACTION_LINK": "{urlActivacion}",
+      "ESTIMADO": "Apreciable <strong>{nombreUsuario}</strong>,",
+      "MESSAGE_ONE": "Usa el siguiente código para confirmar que la dirección de correo electrónico te pertenece:",
+      "MESSAGE_EXPIRE": "Este código solo es válido durante 5 minutos."
+    }
+  },
+  "CODIGO_VERIFICACION_MFA": {
+    "ASUNTO": "Solicitud de acceso: Código de verificación"
+  },
+  "TASK": {
+    "RECORDATORIO": {
+      "ASUNTO": "Recordatorio"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65278e177020958660f1186b"
+  },
+  "clave": 1,
+  "descripcion": "Ciudad de México",
+  "pais": 3,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "65278e297020958660f1186c"
+  },
+  "clave": 2,
+  "descripcion": "Guadalajara",
+  "pais": 3,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "65278ed87020958660f1186d"
+  },
+  "clave": 3,
+  "descripcion": "León",
+  "pais": 3,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "65278ee97020958660f1186e"
+  },
+  "clave": 4,
+  "descripcion": "Monterrey",
+  "pais": 3,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "65278ef87020958660f1186f"
+  },
+  "clave": 5,
+  "descripcion": "Puebla",
+  "pais": 3,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "65278f087020958660f11870"
+  },
+  "clave": 6,
+  "descripcion": "Tijuana",
+  "pais": 3,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "653561978da91e46d89e3def"
+  },
+  "clave": 7,
+  "descripcion": "Torreón",
+  "pais": 3,
+  "activo": true
+}]

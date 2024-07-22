@@ -1,0 +1,448 @@
+[{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914be4"
+  },
+  "clave": 1,
+  "descripcion": "MB COMMERCIAL",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914be5"
+  },
+  "clave": 2,
+  "descripcion": "MB BENEFICIOS CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914be6"
+  },
+  "clave": 3,
+  "descripcion": "MB RISK INTERNACIONAL",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914be7"
+  },
+  "clave": 4,
+  "descripcion": "MB LINEAS PERSONALES",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914be8"
+  },
+  "clave": 5,
+  "descripcion": "MB AUTOS FINANCIERA",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914be9"
+  },
+  "clave": 6,
+  "descripcion": "MB RISK MANAGEMENT CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bea"
+  },
+  "clave": 7,
+  "descripcion": "MB HUB MCS",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914beb"
+  },
+  "clave": 8,
+  "descripcion": "MB HIGH CORPORATE",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bec"
+  },
+  "clave": 9,
+  "descripcion": "MB ENERGY & POWER CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bed"
+  },
+  "clave": 10,
+  "descripcion": "MB TRADE CREDIT CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bee"
+  },
+  "clave": 11,
+  "descripcion": "MB VW",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bef"
+  },
+  "clave": 12,
+  "descripcion": "MB CA CORP CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf0"
+  },
+  "clave": 13,
+  "descripcion": "MB CA CORP OCCIDENTE",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf1"
+  },
+  "clave": 14,
+  "descripcion": "MB FINPRO CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf2"
+  },
+  "clave": 15,
+  "descripcion": "MB AVIACION CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf3"
+  },
+  "clave": 16,
+  "descripcion": "MB FIANZAS",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf4"
+  },
+  "clave": 17,
+  "descripcion": "MB MARINE & CARGO CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf5"
+  },
+  "clave": 18,
+  "descripcion": "MB CONSTRUCCION CDMX",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf6"
+  },
+  "clave": 19,
+  "descripcion": "MB DAIMLER",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf7"
+  },
+  "clave": 20,
+  "descripcion": "MB WORKSITE",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf8"
+  },
+  "clave": 21,
+  "descripcion": "MB COMERCIAL INTERNACIONAL",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bf9"
+  },
+  "clave": 22,
+  "descripcion": "MB TIJUANA",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bfa"
+  },
+  "clave": 23,
+  "descripcion": "MB MEXICALI",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bfb"
+  },
+  "clave": 24,
+  "descripcion": "MB JUAREZ",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bfc"
+  },
+  "clave": 25,
+  "descripcion": "MB HERMOSILLO",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bfd"
+  },
+  "clave": 26,
+  "descripcion": "MB OTROS PROG AUTOS",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bfe"
+  },
+  "clave": 27,
+  "descripcion": "MB GUADALAJARA",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914bff"
+  },
+  "clave": 28,
+  "descripcion": "MB QUERETARO",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c00"
+  },
+  "clave": 29,
+  "descripcion": "MB LEON",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c01"
+  },
+  "clave": 30,
+  "descripcion": "MB SUR",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c02"
+  },
+  "clave": 31,
+  "descripcion": "MB CANCUN",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c03"
+  },
+  "clave": 32,
+  "descripcion": "MB MONTERREY",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c04"
+  },
+  "clave": 33,
+  "descripcion": "MB REYNOSA",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c05"
+  },
+  "clave": 34,
+  "descripcion": "MB MERIDA",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c06"
+  },
+  "clave": 35,
+  "descripcion": "MB TORREON",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c07"
+  },
+  "clave": 36,
+  "descripcion": "MB CONSUMER AFFINITY",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c08"
+  },
+  "clave": 37,
+  "descripcion": "ML CHRYSLER",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c09"
+  },
+  "clave": 38,
+  "descripcion": "ML TOYOTA",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c0a"
+  },
+  "clave": 39,
+  "descripcion": "ML GM",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c0b"
+  },
+  "clave": 40,
+  "descripcion": "ML CETELEM",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c0c"
+  },
+  "clave": 41,
+  "descripcion": "ML SUR",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c0d"
+  },
+  "clave": 42,
+  "descripcion": "ML GUADALAJARA",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c0e"
+  },
+  "clave": 43,
+  "descripcion": "ML COMERCIAL INTERNACIONAL",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c0f"
+  },
+  "clave": 44,
+  "descripcion": "ML COMMERCIAL",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c10"
+  },
+  "clave": 45,
+  "descripcion": "ML SERVICIO AL CLIENTE DAÑOS FLOTILLAS",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c11"
+  },
+  "clave": 46,
+  "descripcion": "ML SERVICIO AL CLIENTE",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c12"
+  },
+  "clave": 47,
+  "descripcion": "ML BENEFICIOS 3",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c13"
+  },
+  "clave": 48,
+  "descripcion": "ML BENEFICIOS 4",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c14"
+  },
+  "clave": 49,
+  "descripcion": "ML LINEAS PERSONALES",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c15"
+  },
+  "clave": 50,
+  "descripcion": "ML MONTERREY",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c16"
+  },
+  "clave": 51,
+  "descripcion": "ML PLAYA DEL CARMEN",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c17"
+  },
+  "clave": 52,
+  "descripcion": "ML MERCADOS DIRECTOS",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c18"
+  },
+  "clave": 53,
+  "descripcion": "ML QUERETARO",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c19"
+  },
+  "clave": 54,
+  "descripcion": "ML CR FACT",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c1a"
+  },
+  "clave": 55,
+  "descripcion": "ML SANTANDER",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dad191d263ef3f83914c1b"
+  },
+  "clave": 56,
+  "descripcion": "ML KIA CONTADO",
+  "activo": true
+}]

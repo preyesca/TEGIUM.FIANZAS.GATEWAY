@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "65411cec00c07e3e272346bd"
+  },
+  "nombreCliente": "Seguros y/o Fianzas con Marsh México",
+  "nombreComercial": "Marsh México",
+  "proyecto": {
+    "$oid": "65368f260db261167b9b2c26"
+  }
+}]

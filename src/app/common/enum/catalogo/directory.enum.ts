@@ -1,0 +1,7 @@
+export enum EStorageFolder {
+  CARGAS_MASIVAS = 0,
+  EXPEDIENTES = 1,
+  FIRMAS_DE_EJECUTIVOS = 2,
+  COTEJADOS = 3,
+  DOCUMENTOS_EMAIL = 4,
+}

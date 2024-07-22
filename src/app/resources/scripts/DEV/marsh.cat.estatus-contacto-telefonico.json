@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "64c577b936860efb262f9b63"
+  },
+  "clave": 1,
+  "descripcion": "Datos de contacto incorrectos",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c577b936860efb262f9b64"
+  },
+  "clave": 2,
+  "descripcion": "No contesta",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c577b936860efb262f9b65"
+  },
+  "clave": 3,
+  "descripcion": "En espera de documentos digitales",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c577b936860efb262f9b66"
+  },
+  "clave": 4,
+  "descripcion": "No desea continuar con el trámite",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c577b936860efb262f9b67"
+  },
+  "clave": 5,
+  "descripcion": "En espera firma cliente",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c577b936860efb262f9b68"
+  },
+  "clave": 6,
+  "descripcion": "En espera firma ejecutivo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c577b936860efb262f9b69"
+  },
+  "clave": 7,
+  "descripcion": "Validando firmas",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c577b936860efb262f9b6a"
+  },
+  "clave": 8,
+  "descripcion": "Formatos enviados a aseguradora",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "65317706dc00d7058e978a0e"
+  },
+  "clave": 9,
+  "descripcion": "En espera de generación de formatos",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6531771bdc00d7058e978a0f"
+  },
+  "clave": 10,
+  "descripcion": "En espera de validación afianzadora",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6531772bdc00d7058e978a10"
+  },
+  "clave": 11,
+  "descripcion": "Documentación física solicitada",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "65317741dc00d7058e978a11"
+  },
+  "clave": 12,
+  "descripcion": "En espera de validación de originales",
+  "activo": true
+}]

@@ -1,0 +1,53 @@
+{
+  "VALIDATIONS": {
+    "NOT_FOUND": {
+      "ACTIVIDAD": "La actividad no se encuentra registrada en el sistema",
+      "CATEGORIA_DOCUMENTO": "La categoría-documento no se encuentra registrada en el sistema",
+      "ESTATUS_USUARIO": "El estatus-usuario no se encuentra registrado en el sistema",
+      "ESTATUS_ACTIVIDAD": "El estatus-actividad no se encuentra registrado en el sistema",
+      "ESTATUS_CONTACTO_TELEFONICO": "El estatus-contacto-telefonico no se encuentra registrado en el sistema",
+      "ESTATUS_GENERACION_FORMATOS": "El estatus-generacion-formatos no se encuentra registrado en el sistema",
+      "ESTATUS_GENERAL": "El estatus-general no se encuentra registrado en el sistema",
+      "GIRO": "El giro no se encuentra registrado en el sistema",
+      "MOTIVO_RECHAZO": "El motivo-rechazo no se encuentra registrado en el sistema",
+      "NEGOCIO": "El negocio no se encuentra registrado en el sistema",
+      "OFICINA": "La oficina no se encuentra registrada en el sistema",
+      "PAIS": "El país no se encuentra registrado en el sistema",
+      "PERFIL": "El perfil no se encuentra registrado en el sistema",
+      "PROCESO": "El proceso no se encuentra registrado en el sistema",
+      "RAMO": "El ramo no se encuentra registrado en el sistema",
+      "RIESGO": "El riesgo no se encuentra registrado en el sistema",
+      "TIPO_CARGA": "El tipo-carga no se encuentra registrado en el sistema",
+      "TIPO_CONTACTO": "El tipo-contacto no se encuentra registrado en el sistema",
+      "TIPO_LLAMADA": "El tipo-llamada no se encuentra registrado en el sistema",
+      "TIPO_MOVIMIENTO": "El tipo-movimiento no se encuentra registrado en el sistema",
+      "TIPO_PERSONA": "El tipo-persona no se encuentra registrado en el sistema",
+      "UNIDAD": "La unidad no se encuentra registrada en el sistema"
+    },
+    "EXISTS": {
+      "ACTIVIDAD": "La actividad ya se encuentra registrada en el sistema",
+      "CATEGORIA_DOCUMENTO": "La categoría-documento ya se encuentra registrada en el sistema",
+      "ESTATUS_USUARIO": "El estatus-usuario ya se encuentra registrado en el sistema",
+      "ESTATUS_ACTIVIDAD": "El estatus-actividad ya se encuentra registrado en el sistema",
+      "ESTATUS_CONTACTO_TELEFONICO": "El estatus-contacto-telefonico ya se encuentra registrado en el sistema",
+      "ESTATUS_GENERACION_FORMATOS": "El estatus-generacion-formatos ya se encuentra registrado en el sistema",
+      "ESTATUS_GENERAL": "El estatus-general ya se encuentra registrado en el sistema",
+      "GIRO": "El giro ya se encuentra registrado en el sistema",
+      "MOTIVO_RECHAZO": "El motivo-rechazo ya se encuentra registrado en el sistema",
+      "NEGOCIO": "El negocio ya se encuentra registrado en el sistema",
+      "OFICINA": "La oficina ya se encuentra registrada en el sistema",
+      "PAIS": "El país ya se encuentra registrado en el sistema",
+      "PERFIL": "El perfil ya se encuentra registrado en el sistema",
+      "PROCESO": "El proceso ya se encuentra registrado en el sistema",
+      "RAMO": "El ramo ya se encuentra registrado en el sistema",
+      "RIESGO": "El riesgo ya se encuentra registrado en el sistema",
+      "TIPO_CARGA": "El tipo-carga ya se encuentra registrado en el sistema",
+      "TIPO_CONTACTO": "El tipo-contacto ya se encuentra registrado en el sistema",
+      "TIPO_LLAMADA": "El tipo-llamada ya se encuentra registrado en el sistema",
+      "TIPO_MOVIMIENTO": "El tipo-movimiento ya se encuentra registrado en el sistema",
+      "TIPO_PERSONA": "El tipo-persona ya se encuentra registrado en el sistema",
+      "UNIDAD": "La unidad ya se encuentra registrada en el sistema"
+    },
+    "MIN_VALUE_CLAVE": "La clave del catálogo no es válida"
+  }
+}

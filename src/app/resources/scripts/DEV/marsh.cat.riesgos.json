@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64dacf8ed263ef3f83914bdd"
+  },
+  "clave": 100,
+  "descripcion": "Beneficios",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dacf8ed263ef3f83914bde"
+  },
+  "clave": 101,
+  "descripcion": "Daños",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dacf8ed263ef3f83914bdf"
+  },
+  "clave": 102,
+  "descripcion": "Fianzas",
+  "activo": true
+}]

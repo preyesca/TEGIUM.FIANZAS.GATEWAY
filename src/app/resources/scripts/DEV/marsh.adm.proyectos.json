@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "pais": 3,
+  "ramo": 7,
+  "proceso": 2,
+  "negocio": 1,
+  "ceco": "1455",
+  "estatus": 1,
+  "aseguradora": {
+    "$oid": "65d5119e1b2764e3fc5d2ed5"
+  },
+  "codigo": "MX-MARSH-FIANZAS-NO APLICA",
+  "portal": ""
+}]

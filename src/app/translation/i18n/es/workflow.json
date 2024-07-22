@@ -1,0 +1,12 @@
+{
+  "VALIDATIONS": {
+    "NOT_FOUND": {
+      "ACTIVIDAD": "La actividad no se encuentra registrada en el sistema",
+      "ACTIVIDADES": "No se encontraron actividades en el sistema"
+    },
+    "EXISTS": {
+      "ACTIVIDAD": "La actividad ya se encuentra registrada en el sistema",
+      "ACTIVIDADES": "LaS actividad ya encuentran registradas en el sistema"
+    }
+  }
+}

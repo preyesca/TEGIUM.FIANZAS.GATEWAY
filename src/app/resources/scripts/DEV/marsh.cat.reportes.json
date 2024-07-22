@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "66154cbf73ca190328a46ecf"
+  },
+  "clave": 1,
+  "descripcion": "Reporte de seguimiento",
+  "activo": true
+}]

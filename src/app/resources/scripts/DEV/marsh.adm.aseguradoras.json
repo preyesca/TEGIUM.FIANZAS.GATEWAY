@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "65356f898da91e46d89e3df1"
+  },
+  "razonSocial": "Aseguradora Aserta, S.A. de C.V.",
+  "nombreComercial": "Aseguradora Aserta, S.A. de C.V.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "65356ff58da91e46d89e3df2"
+  },
+  "razonSocial": "Chubb Fianzas Monterrey Aseguradora de Caución, S.A.",
+  "nombreComercial": "Chubb Fianzas Monterrey Aseguradora de Caución, S.A.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "6535702b8da91e46d89e3df3"
+  },
+  "razonSocial": "Sofimex, Institución de Garantías, S.A.",
+  "nombreComercial": "Sofimex, Institución de Garantías, S.A.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "653570508da91e46d89e3df4"
+  },
+  "razonSocial": "Dorama Institución de Garantías, S.A.",
+  "nombreComercial": "Dorama Institución de Garantías, S.A.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "653570868da91e46d89e3df5"
+  },
+  "razonSocial": "Tokio Marine HCC México, Compañía Afianzadora, S.A. de C.V.",
+  "nombreComercial": "Tokio Marine HCC México, Compañía Afianzadora, S.A. de C.V.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "653570b28da91e46d89e3df6"
+  },
+  "razonSocial": "Fianzas y Cauciones Atlas, S.A.",
+  "nombreComercial": "Fianzas y Cauciones Atlas, S.A.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "653570f68da91e46d89e3df7"
+  },
+  "razonSocial": "Liberty Fianzas, S.A. de C.V.",
+  "nombreComercial": "Liberty Fianzas, S.A. de C.V.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    4,
+    5,
+    6
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "653571648da91e46d89e3df8"
+  },
+  "razonSocial": "Berkley International Fianzas México, S.A. de C.V.",
+  "nombreComercial": "Berkley International Fianzas México, S.A. de C.V.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "653571978da91e46d89e3df9"
+  },
+  "razonSocial": "AVLA Seguros, S.A. de C.V.",
+  "nombreComercial": "AVLA Seguros, S.A. de C.V.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "6535724c8da91e46d89e3dfa"
+  },
+  "razonSocial": "Inbursa Seguros de Caución y Fianzas, S.A. ,Grupo Financiero Inbursa",
+  "nombreComercial": "Inbursa Seguros de Caución y Fianzas, S.A. ,Grupo Financiero Inbursa",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    3
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "653572808da91e46d89e3dfb"
+  },
+  "razonSocial": "Mapfre Fianzas, S.A.",
+  "nombreComercial": "Mapfre Fianzas, S.A.",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [
+    1,
+    2,
+    5
+  ],
+  "altaProyecto": true,
+  "documentos": true
+},
+{
+  "_id": {
+    "$oid": "65d5119e1b2764e3fc5d2ed5"
+  },
+  "razonSocial": "MARSH MEXICO AGENTE DE SEGUROS Y DE FIANZAS, S.A. DE C.V.",
+  "nombreComercial": "MARSH",
+  "pais": 3,
+  "estatus": 1,
+  "oficinas": [],
+  "altaProyecto": true,
+  "documentos": true
+}]

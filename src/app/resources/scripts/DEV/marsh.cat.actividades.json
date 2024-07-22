@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6500c5a9841440018b013b9f"
+  },
+  "clave": 0,
+  "descripcion": "Fin",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b16"
+  },
+  "clave": 1,
+  "descripcion": "Nuevo folio",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b17"
+  },
+  "clave": 2,
+  "descripcion": "Solicitud",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b18"
+  },
+  "clave": 3,
+  "descripcion": "Carga documental",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b19"
+  },
+  "clave": 4,
+  "descripcion": "Validación documental",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b1a"
+  },
+  "clave": 5,
+  "descripcion": "Firma documental",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b1b"
+  },
+  "clave": 6,
+  "descripcion": "Firma ejecutivo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b1c"
+  },
+  "clave": 7,
+  "descripcion": "Validación de firmas",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b1d"
+  },
+  "clave": 8,
+  "descripcion": "Confirmación de entrega",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b1e"
+  },
+  "clave": 9,
+  "descripcion": "Contacto telefónico",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56a9d36860efb262f9b1f"
+  },
+  "clave": 10,
+  "descripcion": "Contacto aseguradora",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "652db7325204cda93882774c"
+  },
+  "clave": 28,
+  "descripcion": "Generación de formatos",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "652db7f65204cda93882774d"
+  },
+  "clave": 29,
+  "descripcion": "Validación afianzadora",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "652db82c5204cda93882774e"
+  },
+  "clave": 18,
+  "descripcion": "Recolección de físicos",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "652db8665204cda93882774f"
+  },
+  "clave": 19,
+  "descripcion": "Validación de originales",
+  "activo": true
+}]

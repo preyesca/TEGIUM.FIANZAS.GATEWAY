@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "663e44327688dba01b09456f"
+  },
+  "month": 1,
+  "day": 1,
+  "year": 2024,
+  "description": "Año nuevo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e46797688dba01b094572"
+  },
+  "month": 2,
+  "day": 5,
+  "year": 2024,
+  "description": "Conmemoración de la Constitución Mexicana",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e46eb7688dba01b094573"
+  },
+  "month": 3,
+  "day": 18,
+  "year": 2024,
+  "description": "Conmemoración del Natalicio de Benito Juárez",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b094576"
+  },
+  "month": 3,
+  "day": 28,
+  "year": 2024,
+  "description": "Jueves Santo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b094577"
+  },
+  "month": 3,
+  "day": 29,
+  "year": 2024,
+  "description": "Viernes Santo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b094578"
+  },
+  "month": 5,
+  "day": 1,
+  "year": 2024,
+  "description": "Día Internacional del Trabajo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b094579"
+  },
+  "month": 9,
+  "day": 16,
+  "year": 2024,
+  "description": "Día de la Independencia de México",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b09457a"
+  },
+  "month": 10,
+  "day": 1,
+  "year": 2024,
+  "description": "Transición del Poder del Ejecutivo Federal",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b09457b"
+  },
+  "month": 11,
+  "day": 2,
+  "year": 2024,
+  "description": "Día de Muertos",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b09457c"
+  },
+  "month": 11,
+  "day": 18,
+  "year": 2024,
+  "description": "Conmemoración de la Revolución Mexicana",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b09457d"
+  },
+  "month": 12,
+  "day": 12,
+  "year": 2024,
+  "description": "Día del Empleario Bancario",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "663e4c617688dba01b09457e"
+  },
+  "month": 12,
+  "day": 25,
+  "year": 2024,
+  "description": "Navidad",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "663e8087f3bfae167c38f419"
+  },
+  "month": 5,
+  "day": 14,
+  "year": 2024,
+  "description": "Dia del kevs",
+  "activo": true
+}]

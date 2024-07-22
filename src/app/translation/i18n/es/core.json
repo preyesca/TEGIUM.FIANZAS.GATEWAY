@@ -1,0 +1,33 @@
+{
+  "VALIDATIONS": {
+    "NOT_FOUND": {
+      "CONTACTO_TELEFONICO": "El contacto telefónico no se encuentra registrado en el sistema",
+      "FOLIO": "El folio no se encuentra registrado en el sistema",
+      "FOLIO_LAYOUT": "El layout no se encuentra registrado en el sistema",
+      "INFORMACION_CONTACTO": "La información de contacto no se encuentra registrado en el sistema",
+      "POLIZA": "La póliza no se encuentra registrada en el sistema",
+      "TELEFONO_CORRESPONDENCIA": "El teléfono de correspondencia no se encuentra registrado en el sistema",
+      "TITULAR": "El titular no se encuentra registrado en el sistema"
+    },
+    "EXISTS": {
+      "CONTACTO_TELEFONICO": "El contacto telefónico ya se encuentra registrado en el sistema",
+      "FOLIO": "El folio ya se encuentra registrado en el sistema",
+      "FOLIO_LAYOUT": "El layout ya se encuentra registrado en el sistema",
+      "INFORMACION_CONTACTO": "La información de contacto ya se encuentra registrado en el sistema",
+      "POLIZA": "La póliza ya se encuentra registrada en el sistema",
+      "TELEFONO_CORRESPONDENCIA": "El teléfono de correspondencia ya se encuentra registrado en el sistema",
+      "TITULAR": "El titular ya se encuentra registrado en el sistema"
+    }
+  },
+  "FOLIO": {
+    "ERROR": {
+      "OTHER_PROYECTO": "No puede visualizar el folio porque pertenece a otro proyecto"
+    },
+    "SUCCESS": {}
+  },
+  "REPORTE": {
+    "SUCCESS": {
+      "SEND_REPORT": "El reporte será enviado a los destinatarios ingresados"
+    }
+  }
+}

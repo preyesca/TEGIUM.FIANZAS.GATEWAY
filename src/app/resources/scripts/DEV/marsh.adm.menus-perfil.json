@@ -1,0 +1,419 @@
+[
+  {
+    "_id": {
+      "$oid": "6536a1aa0db261167b9b2e37"
+    },
+    "proyecto": {
+      "$oid": "65d516041b2764e3fc5d2eda"
+    },
+    "perfil": 1,
+    "pathInicial": "/busquedas",
+    "modulos": [
+      {
+        "descripcion": "General",
+        "orden": 1,
+        "menus": [
+          {
+            "descripcion": "Búsquedas",
+            "path": "/busquedas",
+            "icono": "flaticon-search",
+            "orden": 1,
+            "submenus": []
+          }
+        ]
+      },
+      {
+        "descripcion": "Mantenimiento",
+        "orden": 2,
+        "menus": [
+          {
+            "descripcion": "Aseguradoras",
+            "path": "",
+            "icono": "flaticon-layer",
+            "orden": 1,
+            "submenus": [
+              {
+                "descripcion": "Aseguradora",
+                "path": "/administracion/aseguradoras",
+                "orden": 1
+              },
+              {
+                "descripcion": "Configuración",
+                "path": "/administracion/configuracion-aseguradora",
+                "orden": 2
+              }
+            ]
+          },
+          {
+            "descripcion": "Usuarios",
+            "path": "/administracion/usuarios",
+            "icono": "flaticon-people",
+            "orden": 2,
+            "submenus": []
+          },
+          {
+            "descripcion": "Documentos",
+            "path": "",
+            "icono": "flaticon-add",
+            "orden": 3,
+            "submenus": [
+              {
+                "descripcion": "Documento",
+                "path": "/administracion/documentos",
+                "orden": 1
+              },
+              {
+                "descripcion": "Configuración",
+                "path": "/administracion/configuracion-documental",
+                "orden": 2
+              }
+            ]
+          },
+          {
+            "descripcion": "Cotejo",
+            "path": "",
+            "icono": "flaticon-settings",
+            "orden": 5,
+            "submenus": [
+              {
+                "descripcion": "Firma ejecutivo",
+                "path": "/administracion/configurador-firma-contejo",
+                "orden": 1
+              }
+            ]
+          },
+          {
+            "descripcion": "Reportes",
+            "path": "/administracion/reportes",
+            "icono": "flaticon-add",
+            "orden": 6,
+            "submenus": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6536a1aa0db261167b9b2e38"
+    },
+    "proyecto": {
+      "$oid": "65d516041b2764e3fc5d2eda"
+    },
+    "perfil": 2,
+    "pathInicial": "/busquedas",
+    "modulos": [
+      {
+        "descripcion": "General",
+        "orden": 1,
+        "menus": [
+          {
+            "descripcion": "Búsquedas",
+            "path": "/busquedas",
+            "icono": "flaticon-file-2",
+            "orden": 1,
+            "submenus": []
+          }
+        ]
+      },
+      {
+        "descripcion": "Mantenimiento",
+        "orden": 2,
+        "menus": [
+          {
+            "descripcion": "Usuarios",
+            "path": "/administracion/usuarios",
+            "icono": "flaticon-people",
+            "orden": 1,
+            "submenus": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6536a1aa0db261167b9b2e39"
+    },
+    "proyecto": {
+      "$oid": "65d516041b2764e3fc5d2eda"
+    },
+    "perfil": 3,
+    "pathInicial": "/busquedas",
+    "modulos": [
+      {
+        "descripcion": "General",
+        "orden": 1,
+        "menus": [
+          {
+            "descripcion": "Búsquedas",
+            "path": "/busquedas",
+            "icono": "flaticon-file-2",
+            "orden": 1,
+            "submenus": []
+          }
+        ]
+      },
+      {
+        "descripcion": "Mantenimiento",
+        "orden": 2,
+        "menus": [
+          {
+            "descripcion": "Usuarios",
+            "path": "/administracion/usuarios",
+            "icono": "flaticon-people",
+            "orden": 1,
+            "submenus": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6536a1aa0db261167b9b2e3a"
+    },
+    "proyecto": {
+      "$oid": "65d516041b2764e3fc5d2eda"
+    },
+    "perfil": 4,
+    "pathInicial": "/bandejas/entradas",
+    "modulos": [
+      {
+        "descripcion": "Menú principal",
+        "orden": 1,
+        "menus": [
+          {
+            "descripcion": "Búsquedas",
+            "path": "/busquedas",
+            "icono": "flaticon-search",
+            "orden": 1,
+            "submenus": []
+          },
+          {
+            "descripcion": "Bandejas",
+            "path": "",
+            "icono": "flaticon-chart-2",
+            "orden": 2,
+            "submenus": [
+              {
+                "descripcion": "Entradas",
+                "path": "/bandejas/entradas",
+                "orden": 1
+              },
+              {
+                "descripcion": "Reprocesos",
+                "path": "/bandejas/reprocesos",
+                "orden": 2
+              },
+              {
+                "descripcion": "Suspendidas",
+                "path": "/bandejas/suspendidas",
+                "orden": 3
+              },
+              {
+                "descripcion": "Programadas",
+                "path": "/bandejas/programadas",
+                "orden": 4
+              }
+            ]
+          },
+          {
+            "descripcion": "Folio",
+            "path": "",
+            "icono": "flaticon-download-1",
+            "orden": 3,
+            "submenus": [
+              {
+                "descripcion": "Nuevo",
+                "path": "/folio/nuevo",
+                "orden": 1
+              },
+              {
+                "descripcion": "Estatus carga",
+                "path": "/folio/estatus-carga",
+                "orden": 2
+              },
+              {
+                "descripcion": "Carga documental masiva",
+                "path": "/folio/carga-documental-masiva",
+                "orden": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6536a1aa0db261167b9b2e3b"
+    },
+    "proyecto": {
+      "$oid": "65d516041b2764e3fc5d2eda"
+    },
+    "perfil": 5,
+    "pathInicial": "/bandejas/entradas",
+    "modulos": [
+      {
+        "descripcion": "Menú principal",
+        "orden": 1,
+        "menus": [
+          {
+            "descripcion": "Búsquedas",
+            "path": "/busquedas",
+            "icono": "flaticon-search",
+            "orden": 1,
+            "submenus": []
+          },
+          {
+            "descripcion": "Bandejas",
+            "path": "",
+            "icono": "flaticon-chart-2",
+            "orden": 2,
+            "submenus": [
+              {
+                "descripcion": "Entradas",
+                "path": "/bandejas/entradas",
+                "orden": 1
+              },
+              {
+                "descripcion": "Reprocesos",
+                "path": "/bandejas/reprocesos",
+                "orden": 2
+              },
+              {
+                "descripcion": "Suspendidas",
+                "path": "/bandejas/suspendidas",
+                "orden": 3
+              },
+              {
+                "descripcion": "Programadas",
+                "path": "/bandejas/programadas",
+                "orden": 4
+              }
+            ]
+          },
+          {
+            "descripcion": "Folio",
+            "path": "",
+            "icono": "flaticon-download-1",
+            "orden": 3,
+            "submenus": [
+              {
+                "descripcion": "Nuevo",
+                "path": "/folio/nuevo",
+                "orden": 1
+              },
+              {
+                "descripcion": "Estatus carga",
+                "path": "/folio/estatus-carga",
+                "orden": 2
+              },
+              {
+                "descripcion": "Carga documental masiva",
+                "path": "/folio/carga-documental-masiva",
+                "orden": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6536a1aa0db261167b9b2e3c"
+    },
+    "proyecto": {
+      "$oid": "65d516041b2764e3fc5d2eda"
+    },
+    "perfil": 6,
+    "pathInicial": "/busquedas",
+    "modulos": [
+      {
+        "descripcion": "General",
+        "orden": 2,
+        "menus": [
+          {
+            "descripcion": "Búsquedas",
+            "path": "/busquedas",
+            "icono": "flaticon-file-2",
+            "orden": 1,
+            "submenus": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6536a1aa0db261167b9b2e3d"
+    },
+    "proyecto": {
+      "$oid": "65d516041b2764e3fc5d2eda"
+    },
+    "perfil": 7,
+    "pathInicial": "/busquedas",
+    "modulos": [
+      {
+        "descripcion": "General",
+        "orden": 1,
+        "menus": [
+          {
+            "descripcion": "Búsquedas",
+            "path": "/busquedas",
+            "icono": "flaticon-file-2",
+            "orden": 1,
+            "submenus": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6536a1aa0db261167b9b2e3e"
+    },
+    "proyecto": {
+      "$oid": "65d516041b2764e3fc5d2eda"
+    },
+    "perfil": 8,
+    "pathInicial": "/busquedas",
+    "modulos": [
+      {
+        "descripcion": "General",
+        "orden": 1,
+        "menus": [
+          {
+            "descripcion": "Búsquedas",
+            "path": "/busquedas",
+            "icono": "flaticon-file-2",
+            "orden": 1,
+            "submenus": []
+          }
+        ]
+      },
+      {
+        "descripcion": "Mantenimiento",
+        "orden": 2,
+        "menus": [
+          {
+            "descripcion": "Usuarios",
+            "path": "/administracion/usuarios",
+            "icono": "flaticon-people",
+            "orden": 1,
+            "submenus": []
+          },
+          {
+            "descripcion": "Reportes",
+            "path": "/administracion/reportes",
+            "icono": "flaticon-add",
+            "orden": 2,
+            "submenus": []
+          }
+        ]
+      }
+    ]
+  }
+]

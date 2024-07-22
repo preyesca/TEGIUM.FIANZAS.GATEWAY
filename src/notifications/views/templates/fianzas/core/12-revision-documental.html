@@ -1,0 +1,299 @@
+<tbody>
+  <tr>
+    <div style="width: 100%; text-align: center">
+      <img
+        src="{{ appUrl }}/assets/images/notificaciones/message.png"
+        alt="msg"
+        width="50"
+        style="display: inline; margin-bottom: 5px"
+      />
+      <p
+        style="
+          color: #0eb7e6;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 18px;
+          font-style: normal;
+          font-weight: bold;
+          line-height: normal;
+          margin: 0;
+        "
+      >
+        Revisi&oacute;n documental
+      </p>
+    </div>
+  </tr>
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          padding-top: 20px;
+          color: #141414;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+          padding-top: 30px;
+        "
+        ><strong style="color: #0eb7e6; font-weight: bold">&gt;&gt;</strong>
+        Apreciable
+        <strong style="color: #141414">{{ nombreAsegurado }}</strong></span
+      >
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          color: #141414;
+          padding-top: 15px;
+          line-height: 25px;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+        Agradecemos la confianza de
+        <strong style="color: #141414"> {{ nombreClienteComercial }} </strong> para la
+        administraci&oacute;n de sus fianzas de
+        <strong style="color: #141414">{{ numeroCliente }} </strong>.
+      </span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          color: #141414;
+          padding-top: 15px;
+          line-height: 25px;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+        Despu&eacute;s de la revisi&oacute;n de su informaci&oacute;n, le
+        informamos que para continuar con su tr&aacute;mite de
+        identificaci&oacute;n ante la afianzadora
+        <strong style="color: #141414">{{ nombreComercial }} </strong> es
+        necesario que nos proporcione la siguiente documentaci&oacute;n:
+        <br />
+      </span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 100%; border: none; outline: none; padding: 0">
+      <div
+        style="
+          display: block;
+          box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          -webkit-box-sizing: border-box;
+          width: 100%;
+          height: auto;
+          padding: 15px 20px;
+          margin-top: 10px;
+          background-color: #e8f7fc;
+          font-weight: bold;
+          text-align: start;
+          border-radius: 8px;
+          border: 1px dashed #0eb7e6;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+        <ul style="padding-left: 0px; margin: 0px">
+          {{#each documentos }}
+          <li>
+            <span
+              style="
+                color: #1155cc;
+                font-weight: 500;
+                font-size: 15px;
+                font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+                  'Roboto', 'Arial', sans-serif;
+              "
+              >{{ this }}</span
+            >
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          color: #141414;
+          padding-top: 15px;
+          line-height: 25px;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+        Para mayor agilidad, cumplimiento y comodidad, estos documentos
+        deber&aacute;n ser ingresados en el siguiente enlace:
+        <br />
+      </span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 100%; border: none; outline: none; padding: 0">
+      <div style="text-align: center; margin-top: 10px">
+        <a
+          href="{{ appUrlPortal }}"
+          target="_blank"
+          style="
+            min-width: 300px;
+            box-sizing: border-box;
+            -o-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            width: 100%;
+            text-transform: uppercase;
+            text-decoration: none;
+            color: #ffffff;
+            font-size: 15px;
+            display: inline-block;
+            background: #0eb7e6;
+            border-radius: 8px;
+            font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+              'Roboto', 'Arial', sans-serif;
+            font-weight: normal;
+            font-style: normal;
+            text-align: center;
+            padding: 11px 20px;
+          "
+          >Ir al portal</a
+        >
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          color: #141414;
+          padding-top: 15px;
+          line-height: 25px;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+        Una vez dentro se le solicitar&aacute; la siguiente informaci&oacute;n:
+        <br />
+      </span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 100%; border: none; outline: none; padding: 0">
+      <div
+        style="
+          display: block;
+          box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          -webkit-box-sizing: border-box;
+          width: 100%;
+          height: auto;
+          padding: 15px 20px;
+          margin-top: 10px;
+          background-color: #e8f7fc;
+          font-weight: normal;
+          text-align: start;
+          border-radius: 8px;
+          border: 1px dashed #0eb7e6;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+        N&uacute;mero de cliente:<strong style="color: #141414">
+          {{ numeroCliente }}</strong
+        >
+        <br />
+        Correo electr&oacute;nico:
+        <strong style="color: #141414">
+          <ul style="padding-left: 30px; margin: 0px">
+            {{#each correos }}
+            <li>
+              <a
+                style="
+                  font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+                    'Roboto', 'Arial', sans-serif;
+                  cursor: default;
+                  text-decoration: none;
+                  color: #1155cc;
+                  font-weight: 500;
+                  font-size: 15px;
+                "
+                href="#"
+                name="nonelinkES"
+                >{{ this }}</a
+              >
+            </li>
+            {{/each}}
+          </ul>
+        </strong>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          color: #141414;
+          padding-top: 15px;
+          line-height: 25px;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+        Nuestro portal para acceso de informaci&oacute;n sobre
+        identificaci&oacute;n de clientes, cuenta con todas las medidas de
+        seguridad establecidas en
+        <strong style="color: #141414">{{ nombreComercial }} </strong> y se
+        adhieren a nuestra pol&iacute;tica interna de confidencialidad de la
+        informaci&oacute;n y protecci&oacute;n de datos personales.
+        <br />
+      </span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          color: #141414;
+          padding-top: 15px;
+          line-height: 25px;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+        Si existiera alg&uacute;n inconveniente nos estaremos comunicando con
+        usted en un plazo m&aacute;ximo de 24 horas.
+        <br />
+      </span>
+    </td>
+  </tr>
+
+</tbody>

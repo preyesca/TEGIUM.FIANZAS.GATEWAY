@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "64c5694036860efb262f9b12"
+  },
+  "clave": 1,
+  "descripcion": "Conoce a tu cliente",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "651057dd260cb7e465a1a0f5"
+  },
+  "clave": 2,
+  "descripcion": "Fianzas",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "652f08227416e363366c6d53"
+  },
+  "clave": 3,
+  "descripcion": "Siniestros",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "652f08307416e363366c6d55"
+  },
+  "clave": 4,
+  "descripcion": "Emisión",
+  "activo": true
+}]

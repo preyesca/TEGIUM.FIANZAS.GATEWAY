@@ -1,0 +1,123 @@
+<tbody>
+  <tr>
+    <div style="width: 100%; text-align: center">
+      <img
+        src="{{ appUrl }}/assets/images/notificaciones/message.png"
+        alt="msg"
+        width="50"
+        style="display: inline; margin-bottom: 5px"
+      />
+      <p
+        style="
+          color: #0eb7e6;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 18px;
+          font-style: normal;
+          font-weight: bold;
+          line-height: normal;
+          margin: 0;
+        "
+      >
+      Revisi&oacute;n de documentaci&oacute;n f&iacute;sica
+      </p>
+    </div>
+  </tr>
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          padding-top: 20px;
+          color: #141414;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+          padding-top: 30px;
+        "
+        ><strong style="color: #0eb7e6; font-weight: bold">&gt;&gt;</strong>
+        Apreciable
+        <strong style="color: #141414">{{ nombreAsegurado }}</strong></span
+      >
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          color: #141414;
+          padding-top: 15px;
+          line-height: 25px;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+      Derivado de la revisi&oacute;n de la documentaci&oacute;n enviada, a continuaci&oacute;n se enlistan las observaciones encontradas:
+      </span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 100%; border: none; outline: none; padding: 0">
+      <div
+        style="
+          display: block;
+          box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          -webkit-box-sizing: border-box;
+          width: 100%;
+          height: auto;
+          padding: 15px 20px;
+          margin-top: 10px;
+          background-color: #e8f7fc;
+          font-weight: normal;
+          text-align: start;
+          border-radius: 8px;
+          border: 1px dashed #0eb7e6;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+      <strong style="color: #141414">
+      {{observaciones}}
+    </strong>
+
+      <br>
+      <br>
+      <ul style="padding-left: 30px; margin: 0px">
+            {{#each documentos }}
+            <li>
+              {{ this }}
+              
+            </li>
+            {{/each}}
+          </ul>
+
+       
+      </div>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td style="border: none; outline: none; padding: 0">
+      <span
+        style="
+          display: block;
+          color: #141414;
+          padding-top: 15px;
+          line-height: 25px;
+          font-family: 'Segoe UI', '-apple-system', 'BlinkMacSystemFont',
+            'Roboto', 'Arial', sans-serif;
+          font-size: 15px;
+        "
+      >
+      Para continuar con el proceso agradecemos nos haga llegar la documentaci&oacute;n cubriendo las observaciones realizadas.
+      </span>
+    </td>
+  </tr>
+
+</tbody>

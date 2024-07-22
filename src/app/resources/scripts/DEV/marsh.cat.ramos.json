@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "64c589d236860efb262f9b82"
+  },
+  "clave": 1,
+  "descripcion": "Salud",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c589d236860efb262f9b83"
+  },
+  "clave": 2,
+  "descripcion": "Vida",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c589d236860efb262f9b84"
+  },
+  "clave": 3,
+  "descripcion": "Daños",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c589d236860efb262f9b85"
+  },
+  "clave": 4,
+  "descripcion": "Desempleo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c589d236860efb262f9b86"
+  },
+  "clave": 5,
+  "descripcion": "Orfandad",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c589d236860efb262f9b87"
+  },
+  "clave": 6,
+  "descripcion": "Automóvil",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c589d236860efb262f9b88"
+  },
+  "clave": 7,
+  "descripcion": "No aplica",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "656a3f9d59c01d91ffe8eed8"
+  },
+  "clave": 8,
+  "descripcion": "492",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "656a3fb859c01d91ffe8eed9"
+  },
+  "clave": 9,
+  "descripcion": "Financieras",
+  "activo": true
+}]

@@ -1,0 +1,14 @@
+{
+  "ACCOUNT": {
+    "ERROR": {
+      "BLOCKED": "Su cuenta se encuentra bloqueada, por favor comuníquese con un administrador",
+      "PREVIOUSLY_ACTIVATED": "Su cuenta ya fue activada previamente",
+      "PASSWORD_COMPARISON": "La contraseña ingresada no coincide con la actual",
+      "INACTIVE": "La cuenta no se encuentra activa",
+      "COMPARE_USER_AND_PASSWORD": "Usuario y/o contraseña incorrectos, inténtelo nuevamente"
+    },
+    "SUCCESS": {
+      "ACTIVATED": "La cuenta fue activada correctamente"
+    }
+  }
+}

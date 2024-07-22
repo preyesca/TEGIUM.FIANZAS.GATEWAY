@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "64c56bf136860efb262f9b26"
+  },
+  "clave": 1,
+  "descripcion": "Administrador",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56bf136860efb262f9b27"
+  },
+  "clave": 2,
+  "descripcion": "Helpdesk interno",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56bf136860efb262f9b28"
+  },
+  "clave": 3,
+  "descripcion": "Helpdesk externo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56bf136860efb262f9b29"
+  },
+  "clave": 4,
+  "descripcion": "Analista de ingreso",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56bf136860efb262f9b2a"
+  },
+  "clave": 5,
+  "descripcion": "Ejecutivo de mesa",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c56bf136860efb262f9b2b"
+  },
+  "clave": 6,
+  "descripcion": "Consulta",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64cef7eb2daaba54247ce465"
+  },
+  "clave": 7,
+  "descripcion": "Supervisor analista",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64dedd6da4bd3294c85f6d7e"
+  },
+  "clave": 8,
+  "descripcion": "Supervisor mesa",
+  "activo": true
+}
+
+]

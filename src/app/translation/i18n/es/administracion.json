@@ -1,0 +1,58 @@
+{
+  "VALIDATIONS": {
+    "NOT_FOUND": {
+      "ASEGURADORA": "La aseguradora no se encuentra registrada en el sistema",
+      "CONFIGURACION_ASEGURADORA": "La configuración de aseguradora no se encuentra registrada en el sistema",
+      "CONFIGURACION_DOCUMENTAL": "La configuración documental no se encuentra registrada en el sistema",
+      "DOCUMENTO": "El documento no se encuentra registrado en el sistema",
+      "PROYECTO": "El proyecto no se encuentra registrado en el sistema",
+      "USUARIO": "El usuario no se encuentra registrado en el sistema"
+    },
+    "EXISTS": {
+      "ASEGURADORA": "La aseguradora ya se encuentra registrada en el sistema",
+      "CONFIGURACION_ASEGURADORA": "La configuración de aseguradora ya se encuentra registrada en el sistema",
+      "CONFIGURACION_DOCUMENTAL": "La configuración documental ya se encuentra registrada en el sistema",
+      "CONFIGURACION_FIRMA_COTEJO": "La configuración de firma cotejo ya se encuentra registrada en el sistema",
+      "DOCUMENTO": "El documento ya se encuentra registrado en el sistema",
+      "PROYECTO": "El proyecto ya se encuentra registrado en el sistema",
+      "USUARIO": "El usuario ya se encuentra registrado en el sistema",
+      "EMAIL": "El correo electrónico ya se encuentra registrado en el sistema"
+    }
+  },
+  "ASEGURADORA": {
+    "ERROR": {},
+    "SUCCESS": {}
+  },
+  "CONFIGURACION_ASEGURADORA": {
+    "ERROR": {},
+    "SUCCESS": {}
+  },
+  "CONFIGURACION_DOCUMENTAL": {
+    "ERROR": {},
+    "SUCCESS": {}
+  },
+  "DOCUMENTO": {
+    "ERROR": {},
+    "SUCCESS": {}
+  },
+  "MENU_PERFIL": {
+    "ERROR": {},
+    "SUCCESS": {}
+  },
+  "PERMISO_PERFIL": {
+    "ERROR": {},
+    "SUCCESS": {}
+  },
+  "PROYECTO": {
+    "ERROR": {},
+    "SUCCESS": {}
+  },
+  "PROYECTO_CONFIGURACION": {
+    "ERROR": {},
+    "SUCCESS": {}
+  },
+  "USUARIO": {
+    "ERROR": {},
+    "SUCCESS": {}
+  }
+}

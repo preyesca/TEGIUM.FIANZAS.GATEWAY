@@ -1,0 +1,31 @@
+{
+  "INFORMACION_GUARDADA": "La información se guardó con éxito en el sistema",
+  "VALIDACION_CAMPOS": "Error en la validación de campos",
+  "TIEMPO_ESPERA": "Error de tiempo de espera",
+  "TOKEN_NO_AUTORIZADO": "El token no es válido",
+  "ERROR_INESPERADO": "Error inesperado",
+  "ERROR_SAVE_FILE": "Error al guardar el archivo",
+  "ERROR_DELETE_FILE": "Error al eliminar el archivo",
+  "ERROR_DOWNLOAD_FILE": "Error al descargar el archivo",
+  "INFORMACION_NO_EXISTENTE": "No se encontró la información en el sistema",
+  "VALIDACIONES": {
+    "CAMPO_REQUERIDO": "Campo requerido",
+    "EMAIL": "El correo electrónico no es válido",
+    "FECHA": "La fecha no es válida",
+    "BOLEANO": "El campo no es un boleano",
+    "STRING": "El campo no es un string",
+    "MONGO_ID": "El campo no es una referencía válida",
+    "FORMATO": "El campo tiene un formato inválido",
+    "ARRAY": "El campo no es un arreglo válido",
+    "ARRAY_STRING": "El campo no es un arreglo de strings válido",
+    "ARRAY_UNIQUE": "Los elementos en el arreglo deben ser únicos",
+    "CATALOGO_CLAVE": "La clave del catálogo no es un valor numérico válido",
+    "NUMERICO": "El campo no tiene un formato numérico válido.",
+    "VALOR_VALIDO": "Cada número debe ser mayor o igual a 1"
+  },
+  "STATUS": {
+    "UNAUTHORIZED_401": "La solicitud no fue completada porque carece de credenciales de autenticación válidas",
+    "NOT_FOUND": "El recurso no fue encontrado",
+    "INTERNAL_SERVER_ERROR": "Se produjo un error al procesar la solicitud"
+  }
+}

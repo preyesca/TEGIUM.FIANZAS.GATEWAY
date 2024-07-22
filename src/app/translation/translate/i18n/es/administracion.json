@@ -1,0 +1,12 @@
+{
+    "ASEGURADORA": {
+        "VALIDACIONES": {
+            "NOMBRE_COMERCIAL_REQUERIDO":"El nombre comercial es requerido",
+            "RAZON_SOCIAL_REQUERIDO":"La razón social es requerida",
+            "PAIS_REQUERIDO":"El país es requerido",
+            "ESTATUS_REQUERIDO":"El estatus es requerido",
+            "ALTA_PROYECTO_REQUERIDO":"El alta de proyecto debe ser un dato boleano",
+            "DOCUMENTO_REQUERIDO":"Documentos debe ser un dato boleano"
+        }
+    }
+}

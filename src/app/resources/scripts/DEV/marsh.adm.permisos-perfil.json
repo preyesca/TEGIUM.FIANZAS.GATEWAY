@@ -1,0 +1,520 @@
+[{
+  "_id": {
+    "$oid": "6536a1aa0db261167b9b2e40"
+  },
+  "proyecto": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "perfil": 1,
+  "permisos": [
+    {
+      "descripcion": "Dashboard",
+      "permiso": "dashboard"
+    },
+    {
+      "descripcion": "Aseguradoras",
+      "permiso": "adm-aseguradoras"
+    },
+    {
+      "descripcion": "Usuarios",
+      "permiso": "adm-usuarios"
+    },
+    {
+      "descripcion": "Documentos",
+      "permiso": "adm-documentos"
+    },
+    {
+      "descripcion": "Configuración documental",
+      "permiso": "adm-configuracion-documental"
+    },
+    {
+      "descripcion": "Configuración aseguradora",
+      "permiso": "adm-configuracion-aseguradora"
+    },
+	  {
+      "descripcion": "Configuración firma cotejo",
+      "permiso": "adm-configuracion-firma-cotejo"
+    },
+    {
+      "descripcion": "Búsquedas",
+      "permiso": "busquedas"
+    },
+    {
+      "descripcion": "Solicitud",
+      "permiso": "solicitud"
+    },
+    {
+      "descripcion": "Carga documental",
+      "permiso": "carga-documental"
+    },
+    {
+      "descripcion": "Validación digital",
+      "permiso": "validacion-digital"
+    },
+    {
+      "descripcion": "Generación de formatos",
+      "permiso": "generacion-formatos"
+    },
+    {
+      "descripcion": "Firma documental",
+      "permiso": "firma-documental"
+    },
+    {
+      "descripcion": "Validación de firmas",
+      "permiso": "validacion-firma"
+    },
+    {
+      "descripcion": "Validación afianzadora",
+      "permiso": "validacion-afianzadora"
+    },
+    {
+      "descripcion": "Recolección de físicos",
+      "permiso": "recoleccion-fisicos"
+    },
+    {
+      "descripcion": "Validación de originales",
+      "permiso": "validacion-originales"
+    },
+    {
+      "descripcion": "Confirmación de entrega",
+      "permiso": "confirmacion-entrega"
+    },
+    {
+      "descripcion": "Contacto telefónico",
+      "permiso": "contacto-telefonico"
+    },
+    {
+      "descripcion": "Contacto aseguradora",
+      "permiso": "contacto-aseguradora"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6536a1aa0db261167b9b2e41"
+  },
+  "proyecto": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "perfil": 2,
+  "permisos": [
+    {
+      "descripcion": "Dashboard",
+      "permiso": "dashboard"
+    },
+    {
+      "descripcion": "Usuarios",
+      "permiso": "adm-usuarios"
+    },
+    {
+      "descripcion": "Búsquedas",
+      "permiso": "busquedas"
+    },
+    {
+      "descripcion": "Solicitud",
+      "permiso": "solicitud"
+    },
+    {
+      "descripcion": "Carga documental",
+      "permiso": "carga-documental"
+    },
+    {
+      "descripcion": "Validación digital",
+      "permiso": "validacion-digital"
+    },
+    {
+      "descripcion": "Firma documental",
+      "permiso": "firma-documental"
+    },
+    {
+      "descripcion": "Validación de firmas",
+      "permiso": "validacion-firma"
+    },
+    {
+      "descripcion": "Validación afianzadora",
+      "permiso": "validacion-afianzadora"
+    },
+    {
+      "descripcion": "Recolección de físicos",
+      "permiso": "recoleccion-fisicos"
+    },
+    {
+      "descripcion": "Validación de originales",
+      "permiso": "validacion-originales"
+    },
+    {
+      "descripcion": "Confirmación de entrega",
+      "permiso": "confirmacion-entrega"
+    },
+    {
+      "descripcion": "Contacto telefónico",
+      "permiso": "contacto-telefonico"
+    },
+    {
+      "descripcion": "Contacto aseguradora",
+      "permiso": "contacto-aseguradora"
+    },
+    {
+      "descripcion": "Carga documental masiva",
+      "permiso": "carga-documental-masiva"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6536a1aa0db261167b9b2e42"
+  },
+  "proyecto": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "perfil": 3,
+  "permisos": [
+    {
+      "descripcion": "Dashboard",
+      "permiso": "dashboard"
+    },
+    {
+      "descripcion": "Usuarios",
+      "permiso": "adm-usuarios"
+    },
+    {
+      "descripcion": "Búsquedas",
+      "permiso": "busquedas"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6536a1aa0db261167b9b2e43"
+  },
+  "proyecto": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "perfil": 4,
+  "permisos": [
+    {
+      "descripcion": "Dashboard",
+      "permiso": "dashboard"
+    },
+    {
+      "descripcion": "Búsquedas",
+      "permiso": "busquedas"
+    },
+    {
+      "descripcion": "Bandeja entrada",
+      "permiso": "bandeja-entrada"
+    },
+    {
+      "descripcion": "Bandeja reproceso",
+      "permiso": "bandeja-reproceso"
+    },
+    {
+      "descripcion": "Bandeja suspendida",
+      "permiso": "bandeja-suspendida"
+    },
+    {
+      "descripcion": "Bandeja programada",
+      "permiso": "bandeja-programada"
+    },
+    {
+      "descripcion": "Nuevo folio",
+      "permiso": "nuevo-folio"
+    },
+    {
+      "descripcion": "Solicitud",
+      "permiso": "solicitud"
+    },
+    {
+      "descripcion": "Carga documental",
+      "permiso": "carga-documental"
+    },
+    {
+      "descripcion": "Validación digital",
+      "permiso": "validacion-digital"
+    },
+    {
+      "descripcion": "Generación de formatos",
+      "permiso": "generacion-formatos"
+    },
+    {
+      "descripcion": "Firma documental",
+      "permiso": "firma-documental"
+    },
+    {
+      "descripcion": "Validación de firmas",
+      "permiso": "validacion-firma"
+    },
+    {
+      "descripcion": "Validación afianzadora",
+      "permiso": "validacion-afianzadora"
+    },
+    {
+      "descripcion": "Recolección de físicos",
+      "permiso": "recoleccion-fisicos"
+    },
+    {
+      "descripcion": "Validación de originales",
+      "permiso": "validacion-originales"
+    },
+    {
+      "descripcion": "Confirmación de entrega",
+      "permiso": "confirmacion-entrega"
+    },
+    {
+      "descripcion": "Contacto telefónico",
+      "permiso": "contacto-telefonico"
+    },
+    {
+      "descripcion": "Contacto aseguradora",
+      "permiso": "contacto-aseguradora"
+    },
+    {
+      "descripcion": "Carga documental masiva",
+      "permiso": "carga-documental-masiva"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6536a1aa0db261167b9b2e44"
+  },
+  "proyecto": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "perfil": 5,
+  "permisos": [
+    {
+      "descripcion": "Dashboard",
+      "permiso": "dashboard"
+    },
+    {
+      "descripcion": "Búsquedas",
+      "permiso": "busquedas"
+    },
+    {
+      "descripcion": "Bandeja entrada",
+      "permiso": "bandeja-entrada"
+    },
+    {
+      "descripcion": "Bandeja reproceso",
+      "permiso": "bandeja-reproceso"
+    },
+    {
+      "descripcion": "Bandeja suspendida",
+      "permiso": "bandeja-suspendida"
+    },
+    {
+      "descripcion": "Bandeja programada",
+      "permiso": "bandeja-programada"
+    },
+    {
+      "descripcion": "Nuevo folio",
+      "permiso": "nuevo-folio"
+    },
+    {
+      "descripcion": "Solicitud",
+      "permiso": "solicitud"
+    },
+    {
+      "descripcion": "Carga documental",
+      "permiso": "carga-documental"
+    },
+    {
+      "descripcion": "Validación digital",
+      "permiso": "validacion-digital"
+    },
+    {
+      "descripcion": "Generación de formatos",
+      "permiso": "generacion-formatos"
+    },
+    {
+      "descripcion": "Firma documental",
+      "permiso": "firma-documental"
+    },
+    {
+      "descripcion": "Validación de firmas",
+      "permiso": "validacion-firma"
+    },
+    {
+      "descripcion": "Validación afianzadora",
+      "permiso": "validacion-afianzadora"
+    },
+    {
+      "descripcion": "Recolección de físicos",
+      "permiso": "recoleccion-fisicos"
+    },
+    {
+      "descripcion": "Validación de originales",
+      "permiso": "validacion-originales"
+    },
+    {
+      "descripcion": "Confirmación de entrega",
+      "permiso": "confirmacion-entrega"
+    },
+    {
+      "descripcion": "Contacto telefónico",
+      "permiso": "contacto-telefonico"
+    },
+    {
+      "descripcion": "Contacto aseguradora",
+      "permiso": "contacto-aseguradora"
+    },
+    {
+      "descripcion": "Carga documental masiva",
+      "permiso": "carga-documental-masiva"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6536a1aa0db261167b9b2e45"
+  },
+  "proyecto": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "perfil": 6,
+  "permisos": [
+    {
+      "descripcion": "Dashboard",
+      "permiso": "dashboard"
+    },
+    {
+      "descripcion": "Búsquedas",
+      "permiso": "busquedas"
+    },
+    {
+      "descripcion": "Solicitud",
+      "permiso": "solicitud"
+    },
+    {
+      "descripcion": "Carga documental",
+      "permiso": "carga-documental"
+    },
+    {
+      "descripcion": "Validación digital",
+      "permiso": "validacion-digital"
+    },
+    {
+      "descripcion": "Firma documental",
+      "permiso": "firma-documental"
+    },
+    {
+      "descripcion": "Validación de firmas",
+      "permiso": "validacion-firma"
+    },
+    {
+      "descripcion": "Validación afianzadora",
+      "permiso": "validacion-afianzadora"
+    },
+    {
+      "descripcion": "Recolección de físicos",
+      "permiso": "recoleccion-fisicos"
+    },
+    {
+      "descripcion": "Validación de originales",
+      "permiso": "validacion-originales"
+    },
+    {
+      "descripcion": "Confirmación de entrega",
+      "permiso": "confirmacion-entrega"
+    },
+    {
+      "descripcion": "Contacto telefónico",
+      "permiso": "contacto-telefonico"
+    },
+    {
+      "descripcion": "Contacto aseguradora",
+      "permiso": "contacto-aseguradora"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6536a1aa0db261167b9b2e46"
+  },
+  "proyecto": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "perfil": 7,
+  "permisos": [
+    {
+      "descripcion": "Dashboard",
+      "permiso": "dashboard"
+    },
+    {
+      "descripcion": "Búsquedas",
+      "permiso": "busquedas"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6536a1aa0db261167b9b2e47"
+  },
+  "proyecto": {
+    "$oid": "65d516041b2764e3fc5d2eda"
+  },
+  "perfil": 8,
+  "permisos": [
+    {
+      "descripcion": "Dashboard",
+      "permiso": "dashboard"
+    },
+    {
+      "descripcion": "Búsquedas",
+      "permiso": "busquedas"
+    },
+    {
+      "descripcion": "Usuarios",
+      "permiso": "adm-usuarios"
+    },
+    {
+      "descripcion": "Solicitud",
+      "permiso": "solicitud"
+    },
+    {
+      "descripcion": "Carga documental",
+      "permiso": "carga-documental"
+    },
+    {
+      "descripcion": "Validación digital",
+      "permiso": "validacion-digital"
+    },
+    {
+      "descripcion": "Firma documental",
+      "permiso": "firma-documental"
+    },
+    {
+      "descripcion": "Validación de firmas",
+      "permiso": "validacion-firma"
+    },
+    {
+      "descripcion": "Validación afianzadora",
+      "permiso": "validacion-afianzadora"
+    },
+    {
+      "descripcion": "Recolección de físicos",
+      "permiso": "recoleccion-fisicos"
+    },
+    {
+      "descripcion": "Validación de originales",
+      "permiso": "validacion-originales"
+    },
+    {
+      "descripcion": "Confirmación de entrega",
+      "permiso": "confirmacion-entrega"
+    },
+    {
+      "descripcion": "Contacto telefónico",
+      "permiso": "contacto-telefonico"
+    },
+    {
+      "descripcion": "Contacto aseguradora",
+      "permiso": "contacto-aseguradora"
+    },
+    {
+      "descripcion": "Carga documental masiva",
+      "permiso": "carga-documental-masiva"
+    }
+  ]
+}]

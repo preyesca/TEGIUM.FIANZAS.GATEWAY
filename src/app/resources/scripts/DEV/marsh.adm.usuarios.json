@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "64c5ca4e36860efb262f9be7"
+  },
+  "nombre": "Administrador",
+  "primerApellido": "CG",
+  "segundoApellido": "CG",
+  "correoElectronico": "admin@insurance.com",
+  "proyectos": [
+    {
+      "proyecto": {
+        "$oid": "65d516041b2764e3fc5d2eda"
+      },
+      "pais": 3,
+      "perfiles": [
+        1
+      ]
+    }
+  ],
+  "estatus": 1,
+  "activo": true,
+  "intentos": 0,
+  "fechaCreacion": {
+    "$date": "2023-09-25T23:40:39.555Z"
+  },
+  "contrasena": "$2a$10$s66ZXnQZcp5AIv/LtEvhuuwHZdcbp/UBVeqRCryN6mcdTS9syOWyW"
+}]

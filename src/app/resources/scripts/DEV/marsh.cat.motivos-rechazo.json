@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "64c576dd36860efb262f9b5a"
+  },
+  "clave": 1,
+  "descripcion": "Documento ilegible",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c576dd36860efb262f9b5b"
+  },
+  "clave": 2,
+  "descripcion": "Documento faltante",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c576dd36860efb262f9b5c"
+  },
+  "clave": 3,
+  "descripcion": "Documento incorrecto",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c576dd36860efb262f9b5d"
+  },
+  "clave": 4,
+  "descripcion": "Documento vencido",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c576dd36860efb262f9b5e"
+  },
+  "clave": 5,
+  "descripcion": "Información incorrecta",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c576dd36860efb262f9b5f"
+  },
+  "clave": 6,
+  "descripcion": "Firma incorrecta asegurado",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c576dd36860efb262f9b60"
+  },
+  "clave": 7,
+  "descripcion": "Firma incorrecta ejecutivo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "652f72d0dc00d7058e9789aa"
+  },
+  "clave": 8,
+  "descripcion": "Formato incorrecto",
+  "activo": true
+}]

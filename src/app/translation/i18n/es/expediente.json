@@ -1,0 +1,20 @@
+{
+  "FILE": {
+    "SUCCESS": {
+      "SAVE": "El archivo se guardó exitosamente",
+      "UPLOAD": "El archivo se subió exitosamente",
+      "DOWNLOAD": "El archivo se descargó exitosamente",
+      "DELETE": "El archivo se eliminó exitosamente"
+    },
+    "ERROR": {
+      "SAVE": "Se produjo un error al guardar el archivo",
+      "UPLOAD": "Se produjo un error al subir el archivo",
+      "DOWNLOAD": "Se produjo un error al descargar el archivo",
+      "DELETE": "Se produjo un error al eliminar el archivo",
+      "REQUIRED": "El archivo es requerido",
+      "EXCEEDS_SIZE": "El archivo excede el tamaño permitido",
+      "FORMAT": "El archivo no tiene un formato válido",
+      "NOT_FOUND": "No se encontró el archivo"
+    }
+  }
+}

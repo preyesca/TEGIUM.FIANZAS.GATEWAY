@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "64c567ef36860efb262f9b03"
+  },
+  "clave": 1,
+  "descripcion": "Activo",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c567ef36860efb262f9b04"
+  },
+  "clave": 2,
+  "descripcion": "Suspendido",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c567ef36860efb262f9b05"
+  },
+  "clave": 3,
+  "descripcion": "Bloqueado",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c567ef36860efb262f9b06"
+  },
+  "clave": 4,
+  "descripcion": "Baja",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c567ef36860efb262f9b07"
+  },
+  "clave": 5,
+  "descripcion": "Bloqueado por inactividad",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c567ef36860efb262f9b08"
+  },
+  "clave": 6,
+  "descripcion": "Registrado",
+  "activo": true
+}]

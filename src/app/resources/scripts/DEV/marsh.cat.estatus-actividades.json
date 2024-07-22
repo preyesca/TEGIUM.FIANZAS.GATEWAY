@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "64c5740036860efb262f9b3e"
+  },
+  "clave": 1,
+  "descripcion": "Nueva",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5740036860efb262f9b3f"
+  },
+  "clave": 2,
+  "descripcion": "En progreso",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5740036860efb262f9b40"
+  },
+  "clave": 3,
+  "descripcion": "Completada",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5740036860efb262f9b41"
+  },
+  "clave": 4,
+  "descripcion": "En reproceso",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5740036860efb262f9b42"
+  },
+  "clave": 5,
+  "descripcion": "Cancelada",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5740036860efb262f9b43"
+  },
+  "clave": 6,
+  "descripcion": "Finalizada",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5740036860efb262f9b44"
+  },
+  "clave": 7,
+  "descripcion": "Suspendida",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5740036860efb262f9b45"
+  },
+  "clave": 8,
+  "descripcion": "Programada",
+  "activo": true
+}]

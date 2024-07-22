@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "64c5755c36860efb262f9b48"
+  },
+  "clave": 1,
+  "descripcion": "Cliente",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5755c36860efb262f9b49"
+  },
+  "clave": 2,
+  "descripcion": "Automóvil",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "64c5755c36860efb262f9b4a"
+  },
+  "clave": 3,
+  "descripcion": "Complementarios",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c5755c36860efb262f9b4b"
+  },
+  "clave": 4,
+  "descripcion": "Sistema",
+  "activo": true
+}]

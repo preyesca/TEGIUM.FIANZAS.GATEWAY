@@ -1,0 +1,523 @@
+[
+  {
+    "_id": {
+      "$oid": "64caf025a5e6a189ab33e7b0"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Identificación apoderado legal",
+    "nombreBase": "IdentificacionApoderadoLegal",
+    "clave": "IDENTIFICACION_APODERADO_LEGAL",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64caf025a5e6a189ab33e7b1"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Identificación propietario real",
+    "nombreBase": "IdentificacionPropietarioReal",
+    "clave": "IDENTIFICACION_PROPIETARIO_REAL",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64caf025a5e6a189ab33e7b2"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Constancia de situación fiscal (RFC)",
+    "nombreBase": "ConstanciaDeSituacionFiscal_RFC",
+    "clave": "CONSTANCIA_SITUACION_FISCAL",
+    "activo": true,
+    "lang": {
+      "en": {
+        "nombre": "Proof of tax situation"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64d86d7f28652823780aff20"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Constancia de firma electrónica (FIEL)",
+    "nombreBase": "ConstanciaDeFirmaElectronica_FIEL",
+    "clave": "CONSTANCIA_FIRMA_ELECTRONICA",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86d7f28652823780aff21"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Comprobante de domicilio cliente",
+    "nombreBase": "ComprobanteDeDomicilioCliente",
+    "clave": "COMPROBANTE_DOMICILIO_CLIENTE",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86e9e28652823780aff28"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Comprobante domicilio propietario real",
+    "nombreBase": "ComprobanteDomicilioPropietarioReal",
+    "clave": "COMPROBANTE_DOMICILIO_PROPIETARIO_REAL",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86e9e28652823780aff29"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Poder notarial",
+    "nombreBase": "PoderNotarial",
+    "clave": "PODER_NOTARIAL",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86e9e28652823780aff2a"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Acta constitutiva",
+    "nombreBase": "ActaConstitutiva",
+    "clave": "ACTA_CONSTITUTIVA",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86f1328652823780aff2d"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "CURP",
+    "nombreBase": "CURP",
+    "clave": "CURP",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86f1328652823780aff2e"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Estado de cuenta",
+    "nombreBase": "EstadoDeCuenta",
+    "clave": "ESTADO_CUENTA",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86f1328652823780aff2f"
+    },
+    "pais": 3,
+    "categoria": 3,
+    "estatus": 1,
+    "nombre": "FIC",
+    "nombreBase": "FIC",
+    "clave": "FIC",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86f6628652823780aff34"
+    },
+    "pais": 3,
+    "categoria": 3,
+    "estatus": 1,
+    "nombre": "Anexo Fic",
+    "nombreBase": "AnexoFic",
+    "clave": "ANEXO_FIC",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "64d86f6628652823780aff35"
+    },
+    "pais": 3,
+    "categoria": 3,
+    "estatus": 1,
+    "nombre": "Confirmación de entrega",
+    "nombreBase": "ConfirmacionEntrega",
+    "clave": "CONFIRMACION_ENTREGA",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "65319e092edb8b17b768cbe4"
+    },
+    "pais": 3,
+    "categoria": 4,
+    "estatus": 1,
+    "nombre": "Acuse de envió",
+    "nombreBase": "AcuseDeEnvio",
+    "clave": "ACUSE_ENVIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "6556fca3d815eb91bbb452a9"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Acta cambio",
+    "nombreBase": "ActaCambio",
+    "clave": "ACTA_CAMBIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "6556fca3d815eb91bbb452a1"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Acta asamblea",
+    "nombreBase": "ActaAsamblea",
+    "clave": "ACTA_ASAMBLEA",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "6556fca3d815eb91bbb452a2"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Acta consejo de administracion de accionistas",
+    "nombreBase": "ActaConsejoAdmAccionistas",
+    "clave": "ACTA_ACCIONISTAS",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a088c545595ab76fff9c3"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Declaración anual con acuse del ejercicio fiscal del año inmediato",
+    "nombreBase": "DeclaracionAnualConAcuseDelEjercicioFiscalDelAnoInmediato",
+    "clave": "DECLARACION_ANUAL",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a08b8545595ab76fff9d2"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Estados financieros dictaminados cierre último ejercicio fiscal",
+    "nombreBase": "EstadosFinancierosDictaminadosCierreUltimoEjercicioFiscal",
+    "clave": "ESTADOS_FINANCIEROS_DICTAMINADOS",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a08e7545595ab76fff9e1"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Estados financieros internos parciales con antigüedad no mayor de 3 meses",
+    "nombreBase": "EstadosFinancierosInternosParcialesConAntiguedadNoMayorDe3Meses",
+    "clave": "ESTADOS_FINANCIEROS_INTERNOS",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a093c545595ab76fff9f7"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Actas de protocolizaciones",
+    "nombreBase": "ActasDeProtocolizaciones",
+    "clave": "ACTA_PROTOCOLIZACIONES",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0979545595ab76fffa15"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Contrato múltiple",
+    "nombreBase": "ContratoMultiple",
+    "clave": "CONTRATO_MULTIPLE",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a09fd545595ab76fffafc"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Cuestionario de identificación y autorización de investigación en buró de crédito",
+    "nombreBase": "CuestionarioDeIdentificacionYAutorizacionDeInvestigacionEnBuroDeCredito",
+    "clave": "CUESTIONARIO_DE_IDENTIFICACION",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0a1c545595ab76fffb50"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Otros",
+    "nombreBase": "Otros",
+    "clave": "OTROS",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0a40545595ab76fffb5f"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Carta de crédito",
+    "nombreBase": "CartaDeCredito",
+    "clave": "CARTA_DE_CREDITO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0a6a545595ab76fffb6e"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Contrato de prenda (depósito en efectivo)",
+    "nombreBase": "ContratoDePrenda(DepositoEnEfectivo)",
+    "clave": "CONTRATO_DE_PRENDA",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0a88545595ab76fffb7d"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Contrato de Indemnidad (Indemnity Agreement)",
+    "nombreBase": "ContratoDeIndemnidad(IndemnityAgreement)",
+    "clave": "CONTRATO_INDEMNIDAD",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0ad4545595ab76fffb91"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Curriculum o presentación ejecutiva",
+    "nombreBase": "CurriculumOPresentacionEjecutiva",
+    "clave": "CURRICULUM_PRESENTACION_EJECUTIVA",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0b0f545595ab76fffba2"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Identificación oficial con foto y firma",
+    "nombreBase": "IdentificacionOficialConFotoYFirma",
+    "clave": "IDENTIFICACION_OFICIAL_FOTO_FIRMA",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0be8545595ab76fffe3d"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Declaración anual del año inmediato anterior",
+    "nombreBase": "DeclaracionAnualDelAnoInmediatoAnterior",
+    "clave": "DECLARACION_ANUAL_DEL_ANIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0c0e545595ab76fffebe"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Contrato solicitud múltiple de fianzas",
+    "nombreBase": "ContratoSolicitudMultipleDeFianzas",
+    "clave": "CONTRATO_SOLICITUD_MULTIPLE_FIANZAS",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0cb2545595ab76fffecd"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Escrituras de un bien inmueble",
+    "nombreBase": "EscriturasDeUnBienInmueble",
+    "clave": "ESCRITURA_DE_UN_BIEN_INMUEBLE",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0ccb545595ab76fffedc"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Investigación de libertad",
+    "nombreBase": "InvestigacionDeLibertad",
+    "clave": "INVESTIGACION_DE_LIBERTAD",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0cf0545595ab76fffeeb"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Identificación oficial con foto y firma del propietario (s)",
+    "nombreBase": "IdentificacionOficialConFotoYFirmaDelPropietario(S)",
+    "clave": "IDENTIFICACION_OFICIAL_FOTO_FIRMA_PROPIETARIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0d0c545595ab76fffefa"
+    },
+    "pais": 3,
+    "categoria": 3,
+    "estatus": 1,
+    "nombre": "Constancia del obligado solidario",
+    "nombreBase": "ConstanciaDelObligadoSolidario",
+    "clave": "CONTANCIA_OBLIGADO_SOLIDARIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0d25545595ab76ffff09"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "CURP del obligado solidario",
+    "nombreBase": "CurpDelObligadoSolidario",
+    "clave": "CURP_OBLIGADO_SOLIDARIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0d3c545595ab76ffff18"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Comprobante del último pago predial del obligado solidario",
+    "nombreBase": "ComprobanteDelUltimoPagoPredialDelObligadoSolidario",
+    "clave": "COMPROBANTE_ULTIMO_PAGO_PREDIAL_OBLIGADO_SOLIDARIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0d57545595ab76ffff27"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Carta de relación patrimonial/valor del bien inmueble",
+    "nombreBase": "CartaDeRelacionPatrimonial/ValorDelBienInmueble",
+    "clave": "CARTA_RELACION_PATRIMONIAL",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0d74545595ab76ffff36"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Acta de matrimonio",
+    "nombreBase": "ActaDeMatrimonio",
+    "clave": "ACTA_MATRIMONIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0d9e545595ab76ffff45"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Cuestionario y autorización de investigación en buró de crédito obligado solidario",
+    "nombreBase": "CuestionarioYAutorizacionDeInvestigacionEnBuroDeCreditoObligadoSolidario",
+    "clave": "CUESTIONARIO_AUTORIZACION_INVESTIGACION_BURO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "661a0dd0545595ab76ffff54"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Contrato solicitud múltiple de fianzas obligado solidario",
+    "nombreBase": "ContratoSolicitudMultipleDeFianzasObligadoSolidario",
+    "clave": "CONTRATO_SOLICITUD_MULTIPLE_DE_FIANZAS_OBLIGADO_SOLIDARIO",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "6622909644b3a459147b0098"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Validación de originales",
+    "nombreBase": "ValidacionDeOriginales",
+    "clave": "VALIDACION_DE_ORIGINALES",
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "6629707713d367b8c4aec9e1"
+    },
+    "pais": 3,
+    "categoria": 1,
+    "estatus": 1,
+    "nombre": "Comprobante de ingresos",
+    "nombreBase": "ComprobanteDeIngresos",
+    "clave": "COMPROBANTE_DE_INGRESOS",
+    "activo": true
+  }
+]

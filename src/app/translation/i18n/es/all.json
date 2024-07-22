@@ -1,0 +1,39 @@
+{
+  "VALIDATIONS": {
+    "ERROR_GENERAL": "Error en la validación de campos",
+    "FIELD": {
+      "REQUIRED": "El campo es requerido",
+      "STRING": "El campo no es cadena válida",
+      "DATE": "El campo no es una fecha válida",
+      "ID_MONGO": "El campo no es un identificador válido (ObjectId)",
+      "EMAIL": "El campo no es un correo electrónico válido",
+      "FORMAT": "El campo no tiene un formato válido",
+      "ARRAY": "El campo no es un arreglo válido",
+      "ARRAY_UNIQUE": "Los elementos del arreglo deben ser únicos",
+      "NUMERIC": "El campo no es un valor númerico válido",
+      "DECIMAL": "El campo no es un valor decimal válido"
+    },
+    "DATA": {
+      "NOT_FOUND": {
+        "GENERAL": "Información no encontrada en el sistema"
+      },
+      "EXISTS": {
+        "GENERAL": "La información ya se encuentra registrada en el sistema"
+      }
+    }
+  },
+  "MESSAGES": {
+    "SUCCESS": {
+      "SAVED": "Información guardada exitosamente",
+      "UPDATED": "Información actualizada exitosamente",
+      "DELETED": "Información eliminada exitosamente",
+      "NOTIFICATION": "Notificación enviada exitosamente"
+    },
+    "ERROR": {
+      "SAVED": "Se produjo un error al intentar guardar la información",
+      "UPDATED": "Se produjo un error al intentar actualizar la información",
+      "DELETED": "Se produjo un error al intentar eliminar la información",
+      "NOTIFICATION": "Se produjo un error al intentar enviar la notificación"
+    }
+  }
+}

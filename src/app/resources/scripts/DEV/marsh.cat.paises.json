@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "64c568ef36860efb262f9b0b"
+  },
+  "clave": 1,
+  "descripcion": "Chile",
+  "zonaHoraria": "America/Santiago",
+  "abreviatura": "CL",
+  "icon": "cl.svg",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c568ef36860efb262f9b0c"
+  },
+  "clave": 2,
+  "descripcion": "Colombia",
+  "zonaHoraria": "America/Bogota",
+  "abreviatura": "CO",
+  "icon": "co.svg",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c568ef36860efb262f9b0d"
+  },
+  "clave": 3,
+  "descripcion": "México",
+  "zonaHoraria": "America/Mexico_City",
+  "abreviatura": "MX",
+  "icon": "mx.svg",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "64c568ef36860efb262f9b0e"
+  },
+  "clave": 4,
+  "descripcion": "Perú",
+  "zonaHoraria": "America/Lima",
+  "abreviatura": "PE",
+  "icon": "pe.svg",
+  "activo": true
+}]
